@@ -12,30 +12,35 @@ YOUTUBE LINK :https://youtube.com/shorts/YBoSp0ysdCQ?si=BWqBu-i07m4_qUuG
 <img width="402" height="813" alt="Screenshot 2025-11-12 140113" src="https://github.com/user-attachments/assets/352bbfb9-7a36-489e-84e3-2aadfdb9cb9c" />
 
 
-Restaurant Menu App
-App Overview
-Christoffel's Kitchen is a comprehensive restaurant management application built with React Native and TypeScript. This app serves two main purposes:
+###Restaurant Menu App###
+ App Overview
+ 
+ Christoffel's Kitchen is a comprehensive restaurant management application built with React Native and TypeScript. This app serves two main purposes:
 
-For Restaurant Owners/Chefs:
+###For Restaurant Owners/Chefs:
+
 Manage menu items - Add new dishes and remove existing ones
 
 Track menu statistics - View average prices and course breakdowns
 
 Organize dishes by course types (starters, mains, desserts)
 
-For Customers:
+###For Customers:
 Browse the complete menu with detailed dish information
 
 Filter dishes by specific course types
 
 View dish details with images and descriptions
 
-Technical Excellence:
+###Technical Excellence:###
+
 The application demonstrates advanced TypeScript programming concepts including loops, functions, state management, and proper code organization. It features a professional UI/UX with intuitive navigation and real-time data updates.
 
-Change Log
+
+###Change Log###
+
 Part 3 Implementation
-New Features Added:
+###New Features Added:###
 Average Price Calculation on HomeScreen
 
 Separate ManageMenu Screen for adding/removing dishes
@@ -44,7 +49,7 @@ Enhanced Filtering functionality
 
 Professional UI with cards and better styling
 
-Code Improvements:
+###Code Improvements:###
 Fixed allDishes array definition
 
 Fixed conditional statements in FilterScreen
@@ -68,8 +73,10 @@ Global state management
 
 Multiple file structure
 
-Features
+###Features###
+
 Core Features:
+
 Home Screen - Welcome screen with menu statistics and average price calculations
 
 Menu Browser - Complete menu display with dish details
@@ -80,7 +87,8 @@ Filter System - Filter dishes by course type (starters, mains, desserts)
 
 Detail Views - Detailed information for each dish
 
-Technical Features:
+###Technical Features:###
+
 TypeScript for type safety
 
 React Navigation for screen management
@@ -91,7 +99,7 @@ Responsive UI with React Native StyleSheet
 
 Form Validation and user input handling
 
-Installation & Setup
+###Installation & Setup###
 Prerequisites:
 Node.js
 
