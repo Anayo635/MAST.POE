@@ -1,7 +1,7 @@
 STUDENT NAME : ANAYO MNYANDA 
 STUDENT NUMBER : ST10488397
 
-GITHUB LINK : 
+GITHUB LINK : https://github.com/Anayo635/MAST.POE.git
 
 YOUTUBE LINK :https://youtube.com/shorts/YBoSp0ysdCQ?si=BWqBu-i07m4_qUuG
 
